@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/alexwisely"><img src="https://api.daily.dev/devcards/v2/2BF37mIqA2dqAx0tSUlkf.png?type=wide&r=guf" width="652" alt="Alex Wisely's Dev Card"/></a>
+<a href="https://app.daily.dev/alexwisely"><img src="./devcard.png" width="356" alt="Alex's Dev Card"/></a>
 
 <!--
 **AJZander/AJZander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
